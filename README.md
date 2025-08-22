@@ -57,6 +57,8 @@ npm run web     # Web
 
 ## 📌 Part 1: React Native Focus Groups Feature
 
+**Time Taken:** ~4-5 hours
+
 For Part 1, I built a **modern React Native application** featuring a **Focus Groups** community chat/forum system with **production-ready UI/UX**.
 
 **Key Features:**
@@ -85,6 +87,8 @@ For Part 1, I built a **modern React Native application** featuring a **Focus Gr
 
 ## 📌 Part 2: AWS Scaling Architecture with Prisma
 
+**Time Taken:** ~2-3 hours
+
 For Part 2, I designed a **highly scalable AWS architecture** to handle **tens of thousands of concurrent users** using **Prisma + RDS Postgres**.
 
 **Key Highlights:**
@@ -101,6 +105,8 @@ For Part 2, I designed a **highly scalable AWS architecture** to handle **tens o
 ---
 
 ## 📌 Part 3: Architecture & Workflow Short Answers
+
+**Time Taken:** ~30-45 minutes
 
 For Part 3, I provided concise answers (3–5 sentences each) on:
 
